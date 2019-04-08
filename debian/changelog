@@ -1,3 +1,9 @@
+containers-golang (0.1+20190312+8ca8945+stretch1) stretch; urgency=medium
+
+  * Backport to stretch
+
+ -- Jordan Webb <jordemort@github.com>  Mon, 08 Apr 2019 21:53:24 +0000
+
 containers-golang (0.1-1~dev~ubuntu18.04~ppa1) bionic; urgency=medium
 
   * first build for bionic
