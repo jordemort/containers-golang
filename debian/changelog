@@ -1,4 +1,4 @@
-containers-golang (0.1+20190312+8ca8945+stretch1) stretch; urgency=medium
+containers-golang (0.1+20190312+8ca8945) stretch; urgency=medium
 
   * Backport to stretch
 
@@ -10,4 +10,3 @@ containers-golang (0.1-1~dev~ubuntu18.04~ppa1) bionic; urgency=medium
   * built 8ca8945
 
  -- Lokesh Mandvekar <lsm5@fedoraproject.org>  Fri, 15 Mar 2019 23:45:34 -0400
-
